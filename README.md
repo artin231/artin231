@@ -1,4 +1,24 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+profile;i'm+a+programmer;i'm+a+junior+full-stack+developer" alt="Typing SVG" /></a>
+
+<h1>⚡ my skils:</h1>
+<p>HTML</p>
+<p>CSS</p>
+<p>JavaScript</p>
+<p>Django</p>
+<p>Mysql</p>
+<p>git and github </p>
+
+<h1>🌱 my  I’m currently learning: </h1>
+<p>JavaScript Frameworks</p>
+<p>ML</p>
+<p>advanced Mysql</p>
+<p>advanced Django</p>
+
+<h1>👯 i am working on:</h1>
+<p>Mafia Controller </p>
+<p>Blog Django Project </p>
+<p>PixelTools </p>
+
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
