@@ -8,7 +8,7 @@
 <p>Mysql</p>
 <p>git and github </p>
 <br>
-<h1>🌱 my  I’m currently learning: </h1>
+<h1>🌱  I’m currently learning: </h1>
 <p>JavaScript Frameworks</p>
 <p>Machine Learning</p>
 <p>advanced Mysql</p>
