@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+profile;i'm+a+programmer;i'm+a+junior+full-stack+developer" alt="Typing SVG" /></a>
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
