@@ -7,13 +7,13 @@
 <p>Django</p>
 <p>Mysql</p>
 <p>git and github </p>
-
+<br>
 <h1>🌱 my  I’m currently learning: </h1>
 <p>JavaScript Frameworks</p>
-<p>ML</p>
+<p>Machine Learning</p>
 <p>advanced Mysql</p>
 <p>advanced Django</p>
-
+<br>
 <h1>👯 i am working on:</h1>
 <p>Mafia Controller </p>
 <p>Blog Django Project </p>
