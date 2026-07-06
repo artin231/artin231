@@ -24,6 +24,11 @@
 <li>PixelTools </li>
 <li>hamyar atomi</li>
 
+<h1>💬 quizzes</h1>
+<li>codebezan html => 86% </li>
+<li>codebezan css => 100%  </li>
+<li>codebezan javascript => 95%</li>
+
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
