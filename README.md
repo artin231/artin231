@@ -14,10 +14,11 @@
 <p>advanced Mysql</p>
 <p>advanced Django</p>
 <br>
-<h1>👯 i am working on:</h1>
-<p>Mafia Controller </p>
-<p>Blog Django Project </p>
-<p>PixelTools </p>
+<h1>🔭 i am working on:</h1>
+<li>Mafia Controller </li>
+<li>Blog Django Project </li>
+<li>PixelTools </li>
+<li>hamyar atomi</li>
 
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
