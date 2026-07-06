@@ -1,19 +1,23 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=welcome+to+my+profile;i'm+a+programmer;i'm+a+junior+full-stack+developer" alt="Typing SVG" /></a>
 
 <h1>⚡ my skils:</h1>
-<p>HTML</p>
-<p>CSS</p>
-<p>JavaScript</p>
-<p>Django</p>
-<p>Mysql</p>
-<p>git and github </p>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Django</li>
+<li>Mysql</li>
+<li>git and github </li>
+
 <br>
+
 <h1>🌱  I’m currently learning: </h1>
-<p>JavaScript Frameworks</p>
-<p>Machine Learning</p>
-<p>advanced Mysql</p>
-<p>advanced Django</p>
+<li>JavaScript Frameworks</li>
+<li>Machine Learning</li>
+<li>advanced Mysql</li>
+<li>advanced Django</li>
+
 <br>
+
 <h1>🔭 i am working on:</h1>
 <li>Mafia Controller </li>
 <li>Blog Django Project </li>
