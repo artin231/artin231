@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&width=435&lines=welcome+to+my+profile;i'm+a+programmer;i'm+a+junior+full-stack+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1000&width=600&lines=welcome+to+my+profile;i'm+a+programmer+;i'm+a+junior+full-stack+developer" alt="Typing SVG" /></a>
 
 <h1>⚡ my skils:</h1>
 <li>HTML</li>
