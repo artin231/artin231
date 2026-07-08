@@ -19,7 +19,7 @@
 <br>
 
 <h1>🔭 i am working on:</h1>
-<li>Mafia Controller </li>
+<li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
 <li>Blog Django Project </li>
 <li>PixelTools </li>
 <li>hamyar atomi</li>
