@@ -21,7 +21,6 @@
 <h1>🔭 i am working on:</h1>
 <li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
 <li><a href="https://github.com/artin231/blog_django_project">Blog Django Project</a> </li>
-<li>PixelTools </li>
 <li><a href="https://github.com/artin231/hamyar_atomi">Hamyar Atomi</a></li>
 <li><a href="https://github.com/artin231/VPL">ٰVPL</a></li>
 
