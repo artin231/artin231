@@ -7,11 +7,11 @@
 <li>Django</li>
 <li>Mysql</li>
 <li>git and github </li>
+<li>Jquery</li>
 
 <br>
 
 <h1>🌱  I’m currently learning: </h1>
-<li>Jquery</li>
 <li>Machine Learning</li>
 <li>advanced Mysql</li>
 <li>advanced Django</li>
