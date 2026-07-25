@@ -12,6 +12,7 @@
 <br>
 
 <h1>🌱  I’m currently learning: </h1>
+<li>React</li>
 <li>Machine Learning</li>
 <li>advanced Mysql</li>
 <li>advanced Django</li>
