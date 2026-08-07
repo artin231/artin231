@@ -40,6 +40,7 @@
 <li>Vanilla Js</li>
 <li>Jquery</li>
 
+---
 
 # 🌱 Back-end:
 <li>Django</li>
