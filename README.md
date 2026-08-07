@@ -18,22 +18,6 @@
 
 ---
 
-<h1>🔭 i am working on:</h1>
-<li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
-<li><a href="https://github.com/artin231/blog_django_project">Blog Django Project</a> </li>
-<li><a href="https://github.com/artin231/hamyar_atomi">Hamyar Atomi</a></li>
-<li><a href="https://github.com/artin231/VPL">ٰVPL</a></li>
-
----
-
-<h1>💬 quizzes</h1>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Python => 90% </li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : HTML => 86% </li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : CSS => 100%  </li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : JavaScript => 95%</li>
-
----
-
 # ⚡ Front-end:
 <li>HTML</li>
 <li>CSS</li>
@@ -52,6 +36,24 @@
 <li>Vscode</li>
 <li>Git</li>
 <li>GitHub</li>
+
+---
+
+<h1>🔭 i am working on:</h1>
+<li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
+<li><a href="https://github.com/artin231/blog_django_project">Blog Django Project</a> </li>
+<li><a href="https://github.com/artin231/hamyar_atomi">Hamyar Atomi</a></li>
+<li><a href="https://github.com/artin231/VPL">ٰVPL</a></li>
+
+---
+
+<h1>💬 quizzes</h1>
+<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Python => 90% </li>
+<li><a  href="https://codebezan.com/quizzes">codebezan</a> : HTML => 86% </li>
+<li><a  href="https://codebezan.com/quizzes">codebezan</a> : CSS => 100%  </li>
+<li><a  href="https://codebezan.com/quizzes">codebezan</a> : JavaScript => 95%</li>
+
+
 
 
 <!--
