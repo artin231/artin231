@@ -8,7 +8,7 @@
 <li>git and github </li>
 <li>Jquery</li>
 
-<br>
+---
 
 <h1>🌱  I’m currently learning: </h1>
 <li>React</li>
@@ -16,7 +16,7 @@
 <li>advanced Mysql</li>
 <li>advanced Django</li>
 
-<br>
+---
 
 <h1>🔭 i am working on:</h1>
 <li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
@@ -24,13 +24,22 @@
 <li><a href="https://github.com/artin231/hamyar_atomi">Hamyar Atomi</a></li>
 <li><a href="https://github.com/artin231/VPL">ٰVPL</a></li>
 
-<br>
+---
 
 <h1>💬 quizzes</h1>
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : Python => 90% </li>
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : HTML => 86% </li>
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : CSS => 100%  </li>
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : JavaScript => 95%</li>
+
+---
+
+# 🌱 Front-end:
+<li>HTML</li>
+<li>CSS</li>
+<li>Vanilla Js</li>
+<li>Jquery</li>
+
 
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
