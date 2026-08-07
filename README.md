@@ -46,6 +46,13 @@
 <li>Django</li>
 <li>Mysql</li>
 
+---
+
+# 🌱 Dev-Tools:
+<li>Vscode</li>
+<li>Git</li>
+<li>GitHub</li>
+
 
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
