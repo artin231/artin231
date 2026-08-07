@@ -41,6 +41,11 @@
 <li>Jquery</li>
 
 
+# 🌱 Back-end:
+<li>Django</li>
+<li>Mysql</li>
+
+
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
