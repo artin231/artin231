@@ -34,7 +34,7 @@
 
 ---
 
-# 🌱 Front-end:
+# ⚡ Front-end:
 <li>HTML</li>
 <li>CSS</li>
 <li>Vanilla Js</li>
@@ -42,13 +42,13 @@
 
 ---
 
-# 🌱 Back-end:
+# ⚡ Back-end:
 <li>Django</li>
 <li>Mysql</li>
 
 ---
 
-# 🌱 Dev-Tools:
+# ⚡ Dev-Tools:
 <li>Vscode</li>
 <li>Git</li>
 <li>GitHub</li>
