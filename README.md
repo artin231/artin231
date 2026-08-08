@@ -52,6 +52,9 @@
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : HTML => 86% </li>
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : CSS => 100%  </li>
 <li><a  href="https://codebezan.com/quizzes">codebezan</a> : JavaScript => 95%</li>
+<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Mysql => 82%</li>
+<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Git => 95%</li>
+
 
 
 
