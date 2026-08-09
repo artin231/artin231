@@ -7,11 +7,12 @@
 <li>Mysql</li>
 <li>git and github </li>
 <li>Jquery</li>
+<li>React</li>
 
 ---
 
 <h1>🌱  I’m currently learning: </h1>
-<li>React</li>
+<li>getting ready for redux</li>
 <li>Machine Learning</li>
 <li>advanced Mysql</li>
 <li>advanced Django</li>
