@@ -24,7 +24,7 @@
 <li>CSS</li>
 <li>Vanilla Js</li>
 <li>Jquery</li>
-
+<li>React</li>
 ---
 
 # ⚡ Back-end:
