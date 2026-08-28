@@ -12,10 +12,9 @@
 ---
 
 <h1>🌱  I’m currently learning: </h1>
-<li>getting ready for redux(training react)</li>
+<li>Redux</li>
 <li>Machine Learning</li>
-<li>advanced Mysql</li>
-<li>advanced Django</li>
+<li>C++</li>
 
 ---
 
