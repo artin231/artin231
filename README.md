@@ -34,7 +34,7 @@
 ---
 
 # ⚡ Dev-Tools:
-<li>Vscode</li>
+<li>Vim</li>
 <li>Git</li>
 <li>GitHub</li>
 
