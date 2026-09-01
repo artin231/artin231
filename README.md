@@ -42,21 +42,7 @@
 
 <h1>🔭 i am working on:</h1>
 <li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
-<li href="https://github.com/MACsepehri/NakheirMessanger.git"><a>NakheirMessanger</a></li>
-<li href="https://github.com/artin231/TaskManager-with-React-js.git"><a>TaskManager-with-React-js</a></li>
-
----
-
-<h1>💬 quizzes</h1>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Python => 90% </li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : HTML => 86% </li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : CSS => 100%  </li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : JavaScript => 95%</li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Mysql => 82%</li>
-<li><a  href="https://codebezan.com/quizzes">codebezan</a> : Git => 95%</li>
-
-
-
+<li><a href="https://github.com/MACsepehri/NakheirMessanger.git">NakheirMessanger</a></li>
 
 
 <!--
