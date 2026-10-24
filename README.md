@@ -1,49 +1,31 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70000&width=800&height=150&lines=welcome+to+my+profile;i'm+a+programmer;i'm+a+full-stack+developer" alt="Typing SVG" /></a>
-<h1>⚡ my skils:</h1>
+<h1>Hello Im Artin!</h1>
+
+<h1>my skils:</h1>
 <li>HTML</li>
+<br>
 <li>CSS</li>
+<br>
 <li>JavaScript</li>
+<br>
 <li>Django</li>
+<br>
 <li>Mysql</li>
-<li>git and github </li>
+<br>
+<li>git and gitlab </li>
+<br>
 <li>Jquery</li>
-<li>React</li>
-
----
-
-<h1>🌱  I’m currently learning: </h1>
+<br>
+<li>React.js</li>
+<br>
 <li>Redux</li>
-<li>Machine Learning</li>
-<li>C++</li>
+<br>
+<li>Node.js</li>
+<br>
+<li>express.js</li>
 
----
 
-# ⚡ Front-end:
-<li>HTML</li>
-<li>CSS</li>
-<li>Vanilla Js</li>
-<li>Jquery</li>
-<li>React</li>
 
----
 
-# ⚡ Back-end:
-<li>Django</li>
-<li>Mysql</li>
-
----
-
-# ⚡ Dev-Tools:
-<li>Vim</li>
-<li>Git</li>
-<li>GitHub</li>
-
----
-
-<h1>🔭 i am working on:</h1>
-<li><a href="https://github.com/artin231/mafia_controller">Mafia Controller</a> </li>
-<li><a href="https://github.com/MACsepehri/NakheirMessanger.git">NakheirMessanger</a></li>
-<li><a href="https://github.com/artin231/HoshangAlert">HooshangAlert.js</a></li>
 
 <!--
 **artin231/artin231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
